@@ -1,0 +1,14 @@
+C:\Users\nakan\source\repos\ArbolesBinariosEjem\ArbolesBinariosEjem\obj\Debug\net8.0\ArbolesBinariosEjem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nakan\source\repos\ArbolesBinariosEjem\ArbolesBinariosEjem\obj\Debug\net8.0\ArbolesBinariosEjem.AssemblyInfoInputs.cache
+C:\Users\nakan\source\repos\ArbolesBinariosEjem\ArbolesBinariosEjem\obj\Debug\net8.0\ArbolesBinariosEjem.AssemblyInfo.cs
+C:\Users\nakan\source\repos\ArbolesBinariosEjem\ArbolesBinariosEjem\obj\Debug\net8.0\ArbolesBinariosEjem.csproj.CoreCompileInputs.cache
+C:\Users\nakan\source\repos\ArbolesBinariosEjem\ArbolesBinariosEjem\bin\Debug\net8.0\ArbolesBinariosEjem.exe
+C:\Users\nakan\source\repos\ArbolesBinariosEjem\ArbolesBinariosEjem\bin\Debug\net8.0\ArbolesBinariosEjem.deps.json
+C:\Users\nakan\source\repos\ArbolesBinariosEjem\ArbolesBinariosEjem\bin\Debug\net8.0\ArbolesBinariosEjem.runtimeconfig.json
+C:\Users\nakan\source\repos\ArbolesBinariosEjem\ArbolesBinariosEjem\bin\Debug\net8.0\ArbolesBinariosEjem.dll
+C:\Users\nakan\source\repos\ArbolesBinariosEjem\ArbolesBinariosEjem\bin\Debug\net8.0\ArbolesBinariosEjem.pdb
+C:\Users\nakan\source\repos\ArbolesBinariosEjem\ArbolesBinariosEjem\obj\Debug\net8.0\ArbolesBinariosEjem.dll
+C:\Users\nakan\source\repos\ArbolesBinariosEjem\ArbolesBinariosEjem\obj\Debug\net8.0\refint\ArbolesBinariosEjem.dll
+C:\Users\nakan\source\repos\ArbolesBinariosEjem\ArbolesBinariosEjem\obj\Debug\net8.0\ArbolesBinariosEjem.pdb
+C:\Users\nakan\source\repos\ArbolesBinariosEjem\ArbolesBinariosEjem\obj\Debug\net8.0\ArbolesBinariosEjem.genruntimeconfig.cache
+C:\Users\nakan\source\repos\ArbolesBinariosEjem\ArbolesBinariosEjem\obj\Debug\net8.0\ref\ArbolesBinariosEjem.dll
